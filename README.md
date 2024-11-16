@@ -62,6 +62,9 @@ Ejercicio 16
 Escribir un programa en Java que multiplique los 20 primeros número naturales. // Codigo y consola
 ![image](https://github.com/user-attachments/assets/ebb6160b-a23c-49fa-97f9-70df59a56a6f)
 
+Ejercicio 17
+Escribir un programa en Java que sume los cuadrados de los cien primeros números naturales, mostrando el resultado en pantalla.
+
 
 
 
